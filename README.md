@@ -23,13 +23,6 @@
   </a>
 </p>
 
-<h3 align="left">Cybersecurity Projects:</h3>
-<ul>
-  <li>💻 <strong>Web Security Header Scanner</strong> – Detect missing HTTP security headers</li>
-  <li>💻 <strong>AutoReconLite</strong> – Automated web reconnaissance & vulnerability scanner</li>
-  <li>💻 <strong>Log Threat Detector</strong> – Detect suspicious activity in server logs</li>
-  <li>💻 <strong>NetGuard IDS</strong> – Basic network intrusion detection system</li>
-</ul>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
